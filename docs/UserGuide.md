@@ -134,7 +134,7 @@ General displayed information are:
 There are also additional information unique to each role
 
 Professors:
-* Roles: `Coordinator`, `Tutor`, `Lecturer`and/or `Advisor`
+* Roles: `Coordinator`, `Tutor`, `Lecturer`, `Advisor` or `Unassigned`
 
 TA:
 * Availability: `Available` or `Unavailable` 
@@ -250,14 +250,14 @@ Examples:
 
 Edits the roles of an existing professor in TAB.
 
-Format: `roles INDEX roles/ROLE1, ROLE2,...`
+Format: `roles INDEX roles/ROLE`
 
 Edits the roles of the person (whose position must be professor) at the specified `INDEX`. The index refers to the index number shown in the displayed person list. The index **must be a positive integer** 1, 2, 3, …​
 Roles are case-insensitive 
 * Multiple roles may be added and must be separated by a comma.
 
 Examples:
-*  `roles 1 roles/Coordinator, Lecturer, Advisor` edits the roles of the 1st person to be `Coordinator, Lecturer, Advisor`.
+*  `roles 1 roles/Coordinator` edits the role of the 1st person to be `Coordinator`.
 
 
 ### Locating persons by name: `find`
