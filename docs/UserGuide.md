@@ -1,11 +1,18 @@
 
 
-<p align="center"> <img width="460" height="300" src="images/TAB.png" width = 700 height = 700
-> </p>
+<p align="center"> <img width="460" height="300" src="images/TAB.png" width = 700 height = 700> </p>
+
+## A message from us
+
+From the bottom of our hearts, we thank you for selecting TAB
+
+
 Teacher’s Address Book (TAB) is a **desktop app made for teachers, teaching assistants(TA) and professors for managing contacts of each other, as well as their students, optimized for use via a Command Line Interface** (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, TAB can get your contact management tasks done faster than traditional GUI apps.
 
-TAs and Professors are now taking on more roles in different modules. As such, TAB allows the creation of multiple addressbooks which can be used to store the contact information of each specific module, which leads to neater organisation of contacts.
-* Table of Contents
+TAs and Professors are now taking on more roles in different modules. As such, TAB allows the creation of multiple addressbooks which can be used to store the contact information of each specific module, which leads to neater organisation of contacts. 
+
+##Table of Contents
+
 {:toc}
 
 --------------------------------------------------------------------------------------------------------------------
