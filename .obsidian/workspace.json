@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "5538c7c9bf5a58a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbc1d1c3fd3ebd20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7872f26443ef5c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/UserGuide.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "5d36011e1631524d"
+          }
+        ]
+      },
+      {
+        "id": "9ab1b87b0fadefeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "527e1b1198b5d6e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/UserGuide.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "5d36011e1631524d"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d793a33a39efb60f",
+    "type": "split",
+    "children": [
+      {
+        "id": "36d2b924078cfffd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb28037ea9055b01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8c6e420a984bc76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11b19a00b3c0d611",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4829c7b1b52f09e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac90cefb8e43475f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1a32878af7eaa37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/UserGuide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b3338a1ad4eb4f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/UserGuide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "992722c022d70aff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f6c5900010647723",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/UserGuide.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "527e1b1198b5d6e0",
+  "lastOpenFiles": [
+    "images/logo.png.md",
+    "docs/UserGuide.md"
+  ]
+}
