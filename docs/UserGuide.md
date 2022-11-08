@@ -13,10 +13,12 @@ Through our needs analysis and feedback gathering, we are proud to have created 
 We cannot begin to express how grateful we are for users like you who support us by using our products. From the bottom of our hearts, we thank you for selecting TAB and making teaching a fanTABulous experience.
 
 <div markdown="span" class="alert alert-primary"> :heart:
-At TAB, to ensure that we are creating the best product for you, we take feedback very seriously. <br>
-
-If you wish to give us feedback on how to improve our product, please email us and we will get back to you in 3 working days. <br>
-
+At TAB, to ensure that we are creating the best product for you, we take feedback very seriously.
+<br>
+<br>
+If you wish to give us feedback on how to improve our product, please email us and we will get back to you in 3 working days.
+<br>
+<br>
 Email: feedback@TAB.com
 
 </div>
