@@ -4,12 +4,26 @@
 
 ## A message from us
 
-From the bottom of our hearts, we thank you for selecting TAB
+TAB began humbly as our school project, one filled with many challenges and tight deadlines. But with time, it became a passion project, and now finally, a fully functional product used by many. Our team recognised the difficulties faced by teaching staff in getting to know their students' needs better. This is especially true for more dedicated teachers who want to keep tabs (pun intended) of their students lesson progress and grades.  Our goal has always been to create a product that is wanted and needed by teaching assistants and professors alike.
+Through our needs analysis and feedback gathering, we are proud to have created a product that is loved by so many.
+
+
+We cannot begin to express how grateful we are for users like you who support us by using our products. From the bottom of our hearts, we thank you for selecting TAB and making teaching a fanTABulous experience.
+
+<div markdown="span" class="alert alert-primary"> :heart:
+At TAB, to ensure that we are creating the best product for you, we take feedback very seriously. If you wish to give us feedback on how to improve our product, please email us and we will get back to you in 3 working days.
+
+Email: feedback@TAB.com
+
+</div>
+## Overview
 
 
 Teacher’s Address Book (TAB) is a **desktop app made for teachers, teaching assistants(TA) and professors for managing contacts of each other, as well as their students, optimized for use via a Command Line Interface** (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, TAB can get your contact management tasks done faster than traditional GUI apps.
 
 TAs and Professors are now taking on more roles in different modules. As such, TAB allows the creation of multiple addressbooks which can be used to store the contact information of each specific module, which leads to neater organisation of contacts.
+
+## Table of contents
 * Table of Contents
 {:toc}
 
