@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e4829c7b1b52f09e",
@@ -156,7 +157,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "527e1b1198b5d6e0",
+  "active": "7872f26443ef5c98",
   "lastOpenFiles": [
     "images/logo.png.md",
     "docs/UserGuide.md"
